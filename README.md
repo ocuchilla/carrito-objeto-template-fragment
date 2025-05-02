@@ -1,8 +1,8 @@
-#Ejemplo carrito de compras con objetos y template
+# Ejemplo carrito de compras con objetos y template
 
 
 ## Aprendiendo js
-##Template 
+## Template 
 ```html
 <template id="template">
         <li class="list-group-item d-flex justify-content-between align-items-center">
